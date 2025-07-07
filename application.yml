@@ -7,4 +7,3 @@ eureka:
   instance:
     hostname: localhost
 
-as
